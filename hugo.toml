@@ -1,0 +1,4 @@
+baseURL = 'http://helpfulghostwriter.github.io/topics-of-interest'
+languageCode = 'en-us'
+title = 'Topics of interest'
+theme = 'puppet'
